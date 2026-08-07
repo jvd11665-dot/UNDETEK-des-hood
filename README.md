@@ -15,7 +15,7 @@ Free standalone script. No hub. No key.
 [+] 100% standalone (no hub)
 
 [-- Suggested Executors --]
-PC: Xeno, Volt, Madium
+PC: Xeno, Volt, Solara
 MOBILE: Delta, Codex
 
 [-- Links --]
